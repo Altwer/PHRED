@@ -3,7 +3,7 @@ Powerful Hacking Registry Enabled Device
 
 
 
-This is implwmentation of raspberry pi computer with 3.5" tft lcd, esp8266 and Deauther firmware v3 from Spacehuhn. (https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3)
+This is implementation of raspberry pi computer with 3.5" tft lcd, esp8266 and Deauther firmware v3 from Spacehuhn. (https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3)
 There is also Huhnitor installed (https://github.com/SpacehuhnTech/Huhnitor)
 And raspbian OS lite (https://www.raspberrypi.org/software/operating-systems/)
 
