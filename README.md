@@ -1,5 +1,5 @@
-# PHRED
-Powerful Hacking Registry Enabled Device
+# PHReD
+Powerful Hacking Registry-enabled Device
 
 
 
