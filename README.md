@@ -11,7 +11,7 @@ And raspbian OS lite (https://www.raspberrypi.org/software/operating-systems/)
 'coz lcd uses primary UART on gpio, I had to enable another one. (I choosed UART5, on gpio 12 and 13)
 
 Disclaimer:
-This project is not used as real hacking device, it is build with other projects on MakeHackingReal gadgets.
+This project is not used as real hacking device, it is build with other projects on RealHack gadgets.
 Use it only on your networks and never, never, never use it on any other network.
 
 
